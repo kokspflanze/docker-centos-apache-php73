@@ -1,5 +1,5 @@
-# docker-centos-apache-php7.2
-Docker with CentOS 8, systemd, Apache2, PHP7.2, crond, composer and pagespeed
+# docker-centos-apache-php7.3
+Docker with CentOS 8, systemd, Apache2, PHP7.3, crond, composer and pagespeed
 
 # Pull
 
